@@ -1,0 +1,184 @@
+{
+  "skills_frontend": [
+    {
+      "id": "1",
+      "src": "./img/html.png",
+      "title": "HTML"
+    },
+   
+    {
+      "id": "2",
+      "src": "./img/css.png",
+      "title": "CSS"
+    },
+    {
+      "id": "3",
+      "src": "./img/js.png",
+      "title": "JS"
+    },
+    {
+      "id": "4",
+      "src": "./img/react.png",
+      "title": "React"
+    },
+   
+
+  {
+    "id": "5",
+    "src": "./img/c.png",
+    "title": "C"
+  },
+  {
+    "id": "6",
+    "src": "./img/java.png",
+    "title": "Java"
+  },
+  {
+    "id": "7",
+    "src": "./img/python.png",
+    "title": "Python"
+  },
+
+
+  {
+    "id": "8",
+    "src": "./img/django.png",
+    "title": "Djago"
+  },
+  {
+    "id": "9",
+    "src": "./img/node.png",
+    "title": "Nodejs"
+  },
+
+  {
+    "id": "10",
+    "src": "./img/mysql.png",
+    "title": "MySql"
+  },
+  {
+    "id": "11",
+    "src": "./img/mongodb.png",
+    "title": "Mangodb"
+  },
+  {
+    "id": "12",
+    "src": "./img/graphql.png",
+    "title": "Graphql"
+  },
+
+
+
+  {
+    "id": "13",
+    "src": "./img/git.png",
+    "title": "Git"
+  },
+  {
+    "id": "14",
+    "src": "./img/figma.png",
+    "title": "Figma"
+  }
+
+  
+],
+
+
+
+  "certificate": [
+    {
+      "id": "1",
+      "src": "./img/c1-modified.png",
+      "title": "Blockchain Basics",
+      "description": "An online non-credit course authorized by University at Buffalo, The State University of New York and offered through Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/verify/DLQ6VMBNN5QU"
+    },
+    {
+      "id": "2",
+      "src": "./img/c2-modified.png",
+      "title": "AWS Cloud Technical Essentials",
+      "description": "An online non-credit course authorized by Amazon Web Services and offered through Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/verify/NAQ5U9KX6QLR"
+    },
+    {
+      "id": "3",
+      "src": "./img/c3-modified.png",
+      "title": "DevOps on AWS: Code, Build, and Test",
+      "description": "An online non-credit course authorized by Amazon Web Services and offered through Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/verify/7X248U77BBM7"
+    },
+    {
+      "id": "4",
+      "src": "./img/c4-modified.png",
+      "title": "DevOps on AWS: Release and Deploy",
+      "description": "An online non-credit course authorized by Amazon Web Services and offered through Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/verify/ACA9GZF5HKBN"
+    },
+    {
+      "id": "5",
+      "src": "./img/c7-modified.png",
+      "title": "Technical Support Fundamentals",
+      "description": "An online non-credit course authorized by Google and offered through Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/verify/MYSYN7MFQW2A"
+    },
+    {
+      "id": "6",
+      "src": "./img/c5-modified.png",
+      "title": "Operating Systems and You: Becoming a Power User",
+      "description": "An online non-credit course authorized by Google and offered through Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/verify/9EVCD97X5392"
+    },
+    
+    
+    {
+      "id": "7",
+      "src": "./img/c8-modified.png",
+      "title": "The Bits and Bytes of Computer Networking",
+      "description": "An online non-credit course authorized by Google and offered through Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/verify/4B5WGX735Z5U"
+    },
+    {
+      "id": "8",
+      "src": "./img/c6-modified.png",
+      "title": "Real-Time Cyber Threat Detection and Mitigation",
+      "description": "An online non-credit course authorized by New York University and offered through Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/verify/SPX6QRJWGYGF"
+    }
+
+  ],
+
+  "projects": [
+    {
+      "id": "1",
+      "src": "./img/pdd.png",
+      "title": "Plant Disease Detection",
+      "description": "The system is built using RestNet9 model which detects and recognizes the Disease of the Leaf",
+      "link": "https://github.com/Deepakghatteppanavar/plant-disease-detection-using-resnet9"
+    },
+
+    {
+      "id": "2",
+      "src": "./img/cms.png",
+      "title": "Course Management System",
+      "description": "A Website which is helps to Manage course information and genarate document of the course",
+      "link": "https://github.com/Deepakghatteppanavar/course-management-system"
+    },
+    {
+      "id": "3",
+      "src": "./img/ecommers.png",
+      "title": "E-Commerse Website",
+      "description": "A system is build using django and json format which is manage the products and COD Features",
+      "link": "https://github.com/Deepakghatteppanavar?tab=repositories"
+    },
+    {
+      "id": "4",
+      "src": "./img/portfilo.png",
+      "title": "Portfolio",
+      "description": "A website build using HTML, CSS and JS that exemplifies your deliefs, skills, qualifications and professional information ",
+      "link": "https://github.com/Deepakghatteppanavar/resume"
+    }
+  ]
+
+ 
+  
+}
